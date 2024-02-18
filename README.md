@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Geospatial Research under Prof Ryan Engstrom & Prof Edwin Lo<br>
+🔭 I’m currently working on Geospatial Research under Prof Ryan Engstrom & Prof Edwin Lo at George Washington University<br>
 🌱 I’m currently learning  Generative AI 
 <br>⚡ Fun fact I crack jokes I guess
 
