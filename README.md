@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Geospatial Research under Prof Ryan Engstrom & Prof Edwin Lo at George Washington University<br>
+🔭 Incoming PhD Candidate at University of Notre Dame<br>
 🌱 I’m currently learning  Generative AI 
 <br>⚡ Fun fact I crack jokes I guess<br>
 ⚡ Into Transformers<br> 
