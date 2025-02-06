@@ -1,8 +1,7 @@
 # 💫 About Me:
-🔭 Incoming PhD Candidate at University of Notre Dame<br>
-🌱 I’m currently learning  Generative AI 
-<br>⚡ Fun fact I crack jokes I guess<br>
-⚡ Into Transformers<br> 
+🔭 PhD Student at University of Notre Dame<br>
+🌱 I’m currently learning Informative missingness, Graph Machine leanring, Deep learning
+
 
 
 
